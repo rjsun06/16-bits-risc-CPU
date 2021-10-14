@@ -1,5 +1,4 @@
-Name: Renjie Sun
-SID: 918702982
+
 1. ADDER15
 This 15-b look-ahead adder builds on 3 5-b adders and 2 5-b remainderers.
 the max propogation delay is p(5-b adder)+p(5-b remainderer).
